@@ -1,0 +1,172 @@
+
+
+.header-aria{
+    background-color: #ffffff;
+    color: #000;
+    padding-top: 40px;
+    padding-bottom: 90px;
+   
+}
+.navbar-brand{
+    padding-left: 63px;
+    padding-right: 374px;
+}
+
+
+.nav-item{
+    padding-right: 118px;
+}
+.nav-item:hover{
+    border: 2px solid black;
+    
+}
+
+.content{
+    padding-left: 148px;
+    padding-bottom: 135px;
+}
+.content h2{
+    margin-top: 30px;
+    margin-bottom: 42px;
+}
+
+.photodiary p{
+    margin-bottom: 50px;
+}
+.gellery{
+    padding-bottom: 132px;
+}
+.gimg{
+    margin-right: 12px ;
+}
+
+.gimg2{
+    margin-left: 12px;
+}
+.gimg3{
+    margin-right: 12px ;
+    margin-top: 133px;
+}
+
+.gimg4{
+    margin-left: 12px;
+    margin-top: 133px;
+}
+
+.gellery h2{
+    margin-top: 25px;
+    margin-bottom: 42px;
+}
+.gellery h6{
+    margin-top: 30px;
+}
+.sign-up{
+   
+    padding-top: 75px;
+    padding-bottom: 75px;
+    background-color: #f0f0f0;
+    
+}
+
+.abc{
+    margin-top: 83px;
+    
+    border-bottom: 2px solid black;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background: none;
+    font-size: 14pt;
+    padding-bottom: 8px;
+    padding-right: 200px;
+    
+}
+.blog h2{
+    margin-top: 25px;
+    margin-bottom: 42px;
+}
+.blog h6{
+    margin-top: 30px;
+}
+.r{
+    margin-top: 166px;
+    margin-bottom: 295px;
+    
+}
+.r button{
+    padding-top: 18px;
+    padding-bottom: 18px;
+    padding-left: 28px;
+    padding-right: 28px;
+    font-size: 15pt;
+    background-color: #ffffff;
+}
+.r a{
+    text-decoration: none;
+    color: #000;
+}
+.releted{
+    background-color: #f0f0f0;
+    padding-top: 67px;
+    padding-bottom: 95px;
+    
+}
+.releted img{
+    margin-top: 42px;
+    margin-bottom: 25px;
+}
+
+.comments-section{
+    padding-left: 155px;
+    padding-top: 70px;
+    padding-bottom: 94px;
+}
+
+.comment{
+    margin-right: 0;
+}
+.comments-section .c{
+    margin-left: 112px;
+    margin-bottom: 42px;
+}
+
+.comments-section .row{
+    margin-top: 56px;
+}
+.comment input[type=text]{
+    width: 100%;
+    height: 69px;
+}
+.icon-section h6{
+    margin-right: 36px;
+    margin-left: 70px;
+}
+.icon-section .fa-brands{
+    margin-right: 17px;
+    color: #000;
+}
+.footer-aria{
+    padding-top: 41px;
+    padding-bottom: 43px;
+    background-color: #f0f0f0;
+}
+.footer-aria .fa-brands{
+    margin-right: 17px;
+    color: #000;
+}
+.footer-term{
+    margin-left: 55px;
+}
+.termand{
+    margin-right: 28px;
+}
+.footer-term h6 a{
+    color: #000;
+    text-decoration: none;
+}
+.follow h6{
+    margin-right: 20px;
+}
+.follow{
+    margin-left: 100px;
+}

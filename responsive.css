@@ -1,0 +1,64 @@
+/* Tablet Layout */
+@media only screen and (min-width:200px) and (max-width:1280px){
+    .navbar-brand{
+        padding-left: 13px;
+        padding-right: 58px;
+    }
+    .nav-item{
+        padding-right: 18px;
+    }
+    .content{
+        padding-left: 48px;
+        padding-bottom: 135px;
+    }
+    .content h2{
+        margin-top: 20px;
+        margin-bottom: 22px;
+    }
+    .photodiary p{
+        margin-bottom: 45px;
+    }
+    .gellery p{
+        margin-bottom: 100px;
+      
+    }
+    .gellery h2{
+        margin-top: 15px;
+        margin-bottom: 12px;
+    }
+    .gellery h6{
+        margin-top: 10px;
+    }
+    .blog p{
+        margin-bottom: 100px;
+      
+    }
+    .blog h2{
+        margin-top: 15px;
+        margin-bottom: 12px;
+    }
+    .blog h6{
+        margin-top: 10px;
+    }
+    .releted{
+        text-align: center;
+    }
+ 
+    .comments-section{
+        padding-left: 50px;
+    }
+    .comments-section img{
+        margin-bottom: 20px;
+    }
+    .comment input[type=text]{
+        width: 50%;
+        height: 29px;
+    }
+   
+    .footer-aria{
+        text-align: left;
+    }
+    .footer-term{
+        margin-bottom: 25px;
+    }
+}
